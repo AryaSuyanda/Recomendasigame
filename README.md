@@ -58,7 +58,8 @@ Jumlah dari data di setiap kolomnya adalah 47774 buah. Tidak ada missing value d
 
 Berikut ini adalah hasil ketika sedang melakuakn pencarian nama dari game Spelunky 2:
 
- informasi tentang game "Spelunky 2"
+![image](https://github.com/user-attachments/assets/92bbc574-e5a1-446a-9802-709245e3e6db)
+
 Data dari tebal di atas berisi 1219 baris dan 18 kolom.
 
 Ini adalah sebuah tautan untuk merancang proyek adalah sebagai berikut: <br>
