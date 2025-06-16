@@ -315,13 +315,21 @@ Evaluasi terhadap model menunjukkan kinerja optimal dengan metrik precision, rec
 
 ## Referensi
 
-- I Putu, M. W., & Ida Bagus, G. D. (2023). Sistem Rekomendasi Game dengan Metode K-Nearest Neighbor (KNN). Jurnal Nasional Teknologi Informasi dan Aplikasinya. <br>
-- Zhang, Y., & Zhao, X. (2024). Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework. Proceedings of the ACM on Web Conference. <br>
-- Akbar Fauzy Ali, M. (2023). Sistem Rekomendasi Video Games di Platform Steam Menggunakan Deep Reinforcement Learning. Universitas Telkom. <br>
-- Farooq, I., & Humera. (2022). Multimedia Recommendation System for Video Game Based on High-Level Visual Semantic Features. Wiley Online Library. <br>
-- Mustafa, M., Zainuddin, Z., & Rahman, R. A. (2023). Comparison of the TF-IDF Method with the Count Vectorizer to Classify Hate Speech. Jurnal EMACS, 5(2), 79-83. https://doi.org/10.5281/zenodo.1234567
-- Januzaj, Y., & Luma, A. (2022). Cosine Similarity – A Computing Approach to Match Similarity Between Higher Education Programs and Job Market Demands Based on Maximum Number of Common Words. International Journal of Emerging Technologies in Learning (iJET), 17(12), 258–268. https://doi.org/10.3991/ijet.v17i12.30375
-- Resta, O. A., Aditya, A., & Purwiantono, F. E. (2021). Plagiarism Detection in Students' Theses Using The Cosine Similarity Method. Sinkron: Jurnal Dan Penelitian Teknik Informatika, 5(2), 305-313. https://doi.org/10.33395/sinkron.v5i2.10909
-- Ajaegbu, C. (2021). An optimized item-based collaborative filtering algorithm. Journal of Ambient Intelligence and Humanized Computing. https://link.springer.com/article/10.1007/s12652-020-02876-1
-- Dewi, R., Prasetyo, E., & Setiawan, A. (2023). Implementasi K-Means dan Collaborative Filtering untuk Sistem Rekomendasi. Edukasi dan Komputasi. https://journal.unnes.ac.id/sju/edukom/article/
+- I Putu, M. W., & Ida Bagus, G. D. (2023). Sistem Rekomendasi Game dengan Metode K-Nearest Neighbor (KNN). Jurnal Nasional Teknologi Informasi dan Aplikasinya.
+
+- Zhang, Y., & Zhao, X. (2024). Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework. ACM.
+
+- Mustafa, M., Zainuddin, Z., & Rahman, R. A. (2023). Comparison of the TF-IDF Method with the Count Vectorizer to Classify Hate Speech. Jurnal Emacs.
+
+- Ajaegbu, C. (2021). An optimized item-based collaborative filtering algorithm. Journal of Ambient Intelligence and Humanized Computing.
+
+- Farooq, I., & Humera. (2022). Multimedia Recommendation System for Video Game Based on High-Level Visual Semantic Features.
+
+- Januzaj, Y., & Luma, A. (2022). Cosine Similarity – A Computing Approach to Match Similarity Between Higher Education Programs and Job Market Demands.
+
+- Resta, O. A., Aditya, A., & Purwiantono, F. E. (2021). Plagiarism Detection in Students' Theses Using The Cosine Similarity Method.
+
+- Dewi, R., Prasetyo, E., & Setiawan, A. (2023). Implementasi K-Means dan Collaborative Filtering untuk Sistem Rekomendasi. Edukasi dan Komputasi.
+
+
 
