@@ -1,4 +1,4 @@
-## Proyek Sistem Rekomendasi Game
+## Proyek Sistem Rekomendasi Game - Arya Suyanda
 
 ### Project Overview
 
